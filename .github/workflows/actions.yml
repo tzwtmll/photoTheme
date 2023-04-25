@@ -38,7 +38,7 @@
 name: 部署 photo 主题
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] 
 # 执行的一项或多项任务
 jobs:
   build-and-deploy:
